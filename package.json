@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "kucoin-node-sdk": "^1.0.3",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
